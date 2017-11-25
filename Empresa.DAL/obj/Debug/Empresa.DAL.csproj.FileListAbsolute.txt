@@ -1,0 +1,7 @@
+C:\Projetos\Capitulos\Empresa\Empresa.DAL\bin\Debug\Empresa.DAL.dll
+C:\Projetos\Capitulos\Empresa\Empresa.DAL\bin\Debug\Empresa.DAL.pdb
+C:\Projetos\Capitulos\Empresa\Empresa.DAL\bin\Debug\Empresa.Model.dll
+C:\Projetos\Capitulos\Empresa\Empresa.DAL\bin\Debug\Empresa.Model.pdb
+C:\Projetos\Capitulos\Empresa\Empresa.DAL\obj\Debug\Empresa.DAL.csprojResolveAssemblyReference.cache
+C:\Projetos\Capitulos\Empresa\Empresa.DAL\obj\Debug\Empresa.DAL.dll
+C:\Projetos\Capitulos\Empresa\Empresa.DAL\obj\Debug\Empresa.DAL.pdb

@@ -1,0 +1,5 @@
+C:\Projetos\Capitulos\Empresa\Empresa.Model\bin\Debug\Empresa.Model.dll
+C:\Projetos\Capitulos\Empresa\Empresa.Model\bin\Debug\Empresa.Model.pdb
+C:\Projetos\Capitulos\Empresa\Empresa.Model\obj\Debug\Empresa.Model.dll
+C:\Projetos\Capitulos\Empresa\Empresa.Model\obj\Debug\Empresa.Model.pdb
+C:\Projetos\Capitulos\Empresa\Empresa.Model\obj\Debug\Empresa.Model.csprojResolveAssemblyReference.cache
